@@ -23,7 +23,7 @@ aboutButton.onclick = () => {
     aboutSection.classList.remove("display-off");
 };
 
-// contentButton.onclick = () => {
-//     hideAll();
-//     contentSection.classList.remove("display-off");
-// };
+contentButton.onclick = () => {
+    hideAll();
+    contentSection.classList.remove("display-off");
+};

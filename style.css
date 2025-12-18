@@ -1,0 +1,10 @@
+.li-st {
+    list-style-type:none;
+    float: left;
+    margin :10px;
+}
+
+
+.display-off {
+    display: none;
+}
